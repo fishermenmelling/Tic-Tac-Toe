@@ -9,8 +9,8 @@ Type in a number that is 1-9 to claim a place on the board.
   
   3. navigate through terminal to inside the folder carrying the .cpp file and the .hpp file
   
-  4. Type: g++ "Tic-Tac-Toe.cpp" -o "Tic Tac Toe"
+  4. Type: g++ "tictactoe.cpp" -o "tictactoe"
   
   5. Click Enter/Return
   
-  6. Type: ./"Tic Tac Toe"
+  6. Type: ./"tictactoe"
