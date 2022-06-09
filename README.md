@@ -8,6 +8,7 @@ Type in a number that is 1-9 to claim a place on the board.
   2. Open terminal
   
   3. navigate through terminal to inside the folder carrying the .cpp file and the .hpp file
+      
       -To navigate use ["cd" + " " + (name of folder) + enter/return] from folder to folder until you get inside the same folder as the .cpp and .h file
   
   4. Type: g++ "tictactoe.cpp" -o "tictactoe"
